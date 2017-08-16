@@ -7,4 +7,4 @@ camp at RIT in 2017. These include:
 - PowerPoint presentations covering the camp scenario, as well as the
 legal and ethical implications of the content taught by the camp
 - Source code for the Python programs written by students during the
-programming days
+follow-along exercises on the programming days
